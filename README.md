@@ -2,10 +2,7 @@
 
 **`Backend Developer`**
 
-                I am an aspiring backend developer passionate about building robust,
-                scalable, and efficient server-side applications. I work with
-                databases, APIs, and backend frameworks to power modern web
-                applications.
+                Aspiring backend developer with a strong foundation in building robust, scalable, and efficient server-side applications. Skilled in working with databases, APIs, and backend frameworks to develop secure and high-performing web systems. Passionate about applying technical expertise to real-world projects and continuously improving through hands-on experience.
 
    <p align="left">
       
